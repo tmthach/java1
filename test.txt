@@ -6,4 +6,6 @@ x      x
 xxxxxxxx
 xxxxxxxx
 xxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxx
+AAAABBBB
+CCCCDDDD
