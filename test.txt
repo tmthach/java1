@@ -1,10 +1,6 @@
-aaaabbbb
-hhhhllll
+
+
 xxxxxxxx
 x      x
 x      x
 xxxxxxxx
-xxxxxxxx
-xxxxxxxx
-xxxxxxxx
-yyyyyyyy
